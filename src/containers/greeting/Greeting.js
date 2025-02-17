@@ -51,18 +51,14 @@ export default function Greeting() {
             </div>
           </div>
           <div className="greeting-image-div">
-            {illustration.animated ?  (
-              <video
-                autoPlay
-                loop
-                controls
-                playsInline
-                alt="man sitting on table"
-                src={require("../../assets/videos/intro.mp4")}     style={{ maxWidth: "100%", height: "auto" }}
-              />
-            ): (
-              <DisplayLottie animationData={landingPerson} />
-            ) }
+            <video
+              autoPlay
+              loop
+              controls
+              playsInline
+              alt="man sitting on table"
+              src={require("../../assets/videos/intro.mp4")}     style={{ maxWidth: "100%", height: "auto" }}
+            />
           </div>
 
         </div>
