@@ -21,9 +21,9 @@ const illustration = {
 
 const greeting = {
   username: "Mahmudul Hasan",
-  title: "Hi all, I'm Mahmudul Hasan",
+  title: "আসসালামু আলাইকুম, I'm Mahmudul Hasan",
   subTitle: emoji(
-    "A passionate Android  Developer 🚀 having an experience of building Mobile applications with Java, Kotlin, Dart, Flutter and some other cool libraries and frameworks."
+    "A passionate Android  Developer 🚀 having an experience of building Mobile applications with Java, Kotlin,Spring Framework, Dart, Flutter and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://docs.google.com/document/d/1COE54r6wgnuCdrMrS-7Cu7qZ1vlV9SwaF9y_wxhZ864/edit?usp=sharing", // Set to empty to hide the button
@@ -35,8 +35,8 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/appdevmhr/",
   linkedin: "https://www.linkedin.com/in/mahmudul-hasan-023029254/",
-  gmail: "appdevmhr@gmail.com",
-  facebook: "https://www.facebook.com/mh,bspi",
+  gmail: "honey.app.developer@gmail.com",
+  facebook: "https://www.facebook.com/share/1DAuxFb3yC/",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -49,11 +49,11 @@ const skillsSection = {
   subTitle: "CRAZY NATIVE ANDROID DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your  mobile applications"
+      "⚡ With extensive experience in Android development, backend technologies, and cloud infrastructure, I specialize in building scalable and high-performance applications using Java, Kotlin, Flutter, and Dart."
     ),
-    emoji("⚡ Progressive Android Native Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ As an expert in modern web development and App development, I leverage Spring, Database, Dart, and Flutter to craft intuitive, full-stack applications that are both robust and efficient"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ A seasoned professional in Linux, Docker, and database management, I ensure seamless deployment and optimal performance of mission-critical systems across diverse environments. "
     )
   ],
 
@@ -62,59 +62,59 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "Java",
-      fontAwesomeClassname: "fab fa-java"
+      "skillName": "Java",
+      "fontAwesomeClassname": "fab fa-java"
     },
     {
-      skillName: "Android",
-      fontAwesomeClassname: "fa-brands fa-android"
+      "skillName": "Android",
+      "fontAwesomeClassname": "fab fa-android"
     },
     {
-      skillName: "kotlin",
-      fontAwesomeClassname: "fa-solid fa-desktop"
+      "skillName": "Kotlin",
+      "fontAwesomeClassname": "fas fa-code"
     },
     {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
+      "skillName": "JavaScript",
+      "fontAwesomeClassname": "fab fa-js"
     },
     {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
+      "skillName": "ReactJS",
+      "fontAwesomeClassname": "fab fa-react"
     },
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
+      "skillName": "Dart",
+      "fontAwesomeClassname": "fas fa-code"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
+      "skillName": "Flutter",
+      "fontAwesomeClassname": "fas fa-mobile-alt"
     },
     {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
+      "skillName": "Cloud",
+      "fontAwesomeClassname": "fas fa-cloud"
     },
     {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
+      "skillName": "Database",
+      "fontAwesomeClassname": "fas fa-database"
     },
     {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
+      "skillName": "Linux",
+      "fontAwesomeClassname": "fab fa-linux"
     },
     {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
+      "skillName": "Firebase",
+      "fontAwesomeClassname": "fas fa-fire"
     },
     {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
+      "skillName": "Python",
+      "fontAwesomeClassname": "fab fa-python"
     },
     {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
+      "skillName": "Docker",
+      "fontAwesomeClassname": "fab fa-docker"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  "display": true
 };
 
 // Education Section
@@ -123,24 +123,41 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Dhaka Polytechnic Institute",
-      logo: require("./assets/images/dpi.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      "schoolName": "ঢাকা পলিটেকনিক ইনস্টিটিউট",
+      "logo": require("./assets/images/th.jpeg"),
+      "subHeader": "কম্পিউটার সায়েন্সে ডিপ্লোমা",
+      "duration": "মার্চ ২০২২ - ডিসেম্বর ২০২৫",
+      "desc": "ঢাকা পলিটেকনিক ইনস্টিটিউটের কম্পিউটার সায়েন্স ডিপ্লোমা প্রোগ্রামে, আমি সফটওয়্যার ডেভেলপমেন্ট, ডেটাবেস ম্যানেজমেন্ট, এবং নেটওয়ার্কিংয়ের উপর গভীর জ্ঞান অর্জন করেছি।",
+      "descBullets": [
+        "সফটওয়্যার ডেভেলপমেন্টে দক্ষতা অর্জন",
+        "ডেটাবেস ম্যানেজমেন্টে অভিজ্ঞতা",
+        "নেটওয়ার্কিং এবং সিস্টেম অ্যাডমিনিস্ট্রেশনে জ্ঞান"
       ]
     },
     {
-      schoolName: "Ramgoti Rabbania Fazil Madrasha",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Dakhil",
-      duration: "January 2021 - December 2023",
-      desc: "Madrasha,Alim",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      "schoolName": "রামগতি রাব্বানিয়া ফাজিল মাদ্রাসা",
+      "logo": require("./assets/images/stanfordLogo.png"),
+      "subHeader": "ক্লাস ৫ - ক্লাস ১০",
+      "duration": "জানুয়ারি ২০১৫ - ডিসেম্বর ২০২১",
+      "desc": "রামগতি রাব্বানিয়া ফাজিল মাদ্রাসায়, আমি ইসলামী শিক্ষা ও সাধারণ শিক্ষার সমন্বিত পাঠ্যক্রমে অংশগ্রহণ করেছি, যা আমার ব্যক্তিগত ও পেশাগত জীবনে গুরুত্বপূর্ণ ভূমিকা পালন করেছে।",
+      "descBullets": [
+        "ইসলামী শিক্ষা ও সাধারণ শিক্ষার সমন্বিত পাঠ্যক্রমে অংশগ্রহণ",
+        "ধর্মীয় মূল্যবোধ ও নৈতিক শিক্ষার বিকাশ",
+        "সামাজিক ও সাংস্কৃতিক কার্যক্রমে সক্রিয় অংশগ্রহণ"
+      ]
+    },{
+      "schoolName": "ওস্তাদ",
+      "logo": require("./assets/images/ostad.png"),
+      "subHeader": "ফ্লাটার দিয়ে অ্যাপ ডেভেলপমেন্ট",
+      "duration": "নভেম্বর ২০২৪ - জুলাই ২০২৫",
+      "desc": "ওস্তাদের ফ্লাটার অ্যাপ ডেভেলপমেন্ট কোর্সে, আমি ডার্ট প্রোগ্রামিং, ফ্লাটার ফ্রেমওয়ার্ক, এবং আধুনিক মোবাইল অ্যাপ ডেভেলপমেন্টের উপর গভীর জ্ঞান অর্জন করেছি।",
+      "descBullets": [
+        "ডার্ট প্রোগ্রামিং এবং ফ্লাটার ফ্রেমওয়ার্কে দক্ষতা অর্জন",
+        "রিয়েল-টাইম ডেটা ব্যবস্থাপনা এবং API ইন্টিগ্রেশন",
+        "ব্যবহারকারী-বান্ধব ইন্টারফেস ডিজাইন এবং উন্নত ফিচার বাস্তবায়ন"
+      ]
     }
+
   ]
 };
 
@@ -334,9 +351,7 @@ const blogSection = {
   subtitle:
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
-  blogs: [
-
-  ],
+  blogs: [],
   display: true // Set false to hide this section, defaults to true
 };
 
