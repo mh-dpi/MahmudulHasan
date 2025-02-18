@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/MahmudulHasan/static/css/main.f1dd900b.css",
+    "main.js": "/MahmudulHasan/static/js/main.600f9cc1.js",
+    "static/css/136.169c4389.chunk.css": "/MahmudulHasan/static/css/136.169c4389.chunk.css",
+    "static/js/136.92de6d9d.chunk.js": "/MahmudulHasan/static/js/136.92de6d9d.chunk.js",
+    "static/css/380.bc6f4c18.chunk.css": "/MahmudulHasan/static/css/380.bc6f4c18.chunk.css",
+    "static/js/380.602a9404.chunk.js": "/MahmudulHasan/static/js/380.602a9404.chunk.js",
+    "static/media/intro.mp4": "/MahmudulHasan/static/media/intro.ee557607266cb88fdf68.mp4",
+    "static/media/stanfordLogo.png": "/MahmudulHasan/static/media/stanfordLogo.5a8e3a0a00949c93a9b8.png",
+    "static/media/bspi.png": "/MahmudulHasan/static/media/bspi.bd1e7a9e6643976104d1.png",
+    "static/media/Montserrat-Regular.ttf": "/MahmudulHasan/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/furetePlanBd.png": "/MahmudulHasan/static/media/furetePlanBd.d0bb1e7515e110037cfc.png",
+    "static/media/ostad.png": "/MahmudulHasan/static/media/ostad.6db87051698b61224c3e.png",
+    "static/media/Agustina.woff": "/MahmudulHasan/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/contactMailDark.svg": "/MahmudulHasan/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/MahmudulHasan/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/googleAssistantLogo.webp": "/MahmudulHasan/static/media/googleAssistantLogo.f720c71652579588524a.webp",
+    "static/media/airbnbLogo.png": "/MahmudulHasan/static/media/airbnbLogo.e8497507db673acd3991.png",
+    "static/media/th.jpeg": "/MahmudulHasan/static/media/th.41fe43c2ce11f4b80dee.jpeg",
+    "static/media/codeInLogo.webp": "/MahmudulHasan/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
+    "static/media/skill.svg": "/MahmudulHasan/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/pwaLogo.webp": "/MahmudulHasan/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
+    "index.html": "/MahmudulHasan/index.html",
+    "static/media/talksCardBack.svg": "/MahmudulHasan/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.f1dd900b.css.map": "/MahmudulHasan/static/css/main.f1dd900b.css.map",
+    "main.600f9cc1.js.map": "/MahmudulHasan/static/js/main.600f9cc1.js.map",
+    "136.169c4389.chunk.css.map": "/MahmudulHasan/static/css/136.169c4389.chunk.css.map",
+    "136.92de6d9d.chunk.js.map": "/MahmudulHasan/static/js/136.92de6d9d.chunk.js.map",
+    "380.bc6f4c18.chunk.css.map": "/MahmudulHasan/static/css/380.bc6f4c18.chunk.css.map",
+    "380.602a9404.chunk.js.map": "/MahmudulHasan/static/js/380.602a9404.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1dd900b.css",
+    "static/js/main.600f9cc1.js"
+  ]
+}
